@@ -24,8 +24,8 @@
     "bcryptjs": "^3.0.3",
     "jszip": "^3.10.1",
     "lucide-react": "^0.460.0",
-    "next": "^16.1.6",
-    "next-auth": "^4.24.13",
+    "next": "^16.2.9",
+    "next-auth": "^4.24.14",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
     "zod": "^4.3.6"
@@ -39,5 +39,10 @@
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
+  },
+  "allowScripts": {
+    "@prisma/client@2.30.3": true,
+    "es5-ext@0.10.64": true,
+    "unrs-resolver@1.11.1": true
   }
 }
